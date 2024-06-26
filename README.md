@@ -20,7 +20,7 @@ Bare minimum features needed to satisfy use case:
 - [ ] Todo items for this phase, in order
       
 ### Phase 3: Learning to Cook
-*Backend: Given a location, accurately determine and communicate the visible things in the sky*
+*Backend: Given a location, accurately determine and communicate the visible things in the sky* \
 *Frontend: Communicate a specific hard-coded location to server and accurately display what it spits back*
 - [ ] Todo items for this phase, in order
 
