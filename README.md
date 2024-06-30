@@ -1,11 +1,15 @@
 # [Project Title]
 
 ## MVP
-Project Use Case:
+Project Use Case: personalized night sky simulation for amateur astronomy and astrophotography planning
 
-USP from other projects with the same use case: 
+USP from other projects with the same use case: location details, weather conditions, DSO target selection/sorting/listing/filtering (M/NGC/IC/SH2)
 
-Bare minimum features needed to satisfy use case:
+Bare minimum features needed to satisfy use case: 
+- non-laggy and doesn't make computer freeze every 5 minutes
+- solar system, Messier, NOMAD (or other aggregate general star catalog) objects
+- rough visibility adjustment according to Bortle data
+- location and time setting
 
 ## Roadmap
 
