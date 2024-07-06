@@ -1,15 +1,20 @@
 # [Project Title]
 
 ## MVP
-Project Use Case: personalized night sky simulation for amateur astronomy and astrophotography planning
 
-USP from other projects with the same use case: location details, weather conditions, DSO target selection/sorting/listing/filtering (M/NGC/IC/SH2)
+Project Use Case: 
+To provide accurate and personalized night sky predictions and simulations usable by stargazing amateurs. Also includes some features helpful for astrophotography planning. 
 
-Bare minimum features needed to satisfy use case: 
-- non-laggy and doesn't make computer freeze every 5 minutes
-- solar system, Messier, NOMAD (or other aggregate general star catalog) objects
-- rough visibility adjustment according to Bortle data
-- location and time setting
+USP from other projects with the same use case:
+Simulations are highly personalized to include various visibility-impeding properties of the specified location, such as light pollution, air pollution, cloud cover, moonlight glare, and more.
+Also enables DSO target query actions by catalog.
+
+Bare minimum features needed to satisfy use case:
+- Mobile-first PWA
+- Select location (restrict to current time)
+- 360˚ WebGL view
+- View solar system objects and naked-eye visible stars
+- View surrounding elevation(?)
 
 ## Roadmap
 
