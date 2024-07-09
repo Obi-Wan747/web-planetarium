@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@react-three/drei": "^9.108.1",
+    "@types/three": "^0.166.0"
+  }
+}
