@@ -32,6 +32,7 @@ Bare minimum features needed to satisfy use case:
 ### Phase 2: Going Grocery Shopping
 *Collect the necessary data from free resources that would be needed for the MVP (for example, what stars can we see from where)*
 - [ ] Store star catalog information in database
+- [ ] Store solar system objects in database
 - [ ] Store bortle location data in database
 - [ ] Store elevation data in database / get from somewhere
       
