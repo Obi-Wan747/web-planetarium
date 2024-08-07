@@ -21,12 +21,20 @@ Bare minimum features needed to satisfy use case:
 ### Phase 1: Building a House
 *Setup a server that:*
   - *Serves a basic html file with a WebGL canvas saying "hello" in 3D*
-  - *Exposes a basic GraphQL endpoint returning "world"*
-- [ ] Todo items for this phase, in order
+  - *Exposes a basic GraphQL endpoint returning "hello"*
+- [ ] Create a DJango web server
+- [ ] Initialize a GraphQL endpoint & return some nonsense
+- [ ] Write a thin SDK on the frontend to execute API calls
+- [ ] Successfully incorporate nonsense from API in the rendering
+- [ ] Setup a database solution & store some nonsense in it
+- [ ] Return that nonsense through the API
 
 ### Phase 2: Going Grocery Shopping
 *Collect the necessary data from free resources that would be needed for the MVP (for example, what stars can we see from where)*
-- [ ] Todo items for this phase, in order
+- [ ] Store star catalog information in database
+- [ ] Store solar system objects in database
+- [ ] Store bortle location data in database
+- [ ] Store elevation data in database / get from somewhere
       
 ### Phase 3: Learning to Cook
 *Backend: Given a location, accurately determine and communicate the visible things in the sky* \
