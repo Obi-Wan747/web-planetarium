@@ -47,8 +47,13 @@
 name: Deploy to Cloud Run from Source
 
 on:
+  pull_request:
+    branches:
+    - main
   push:
-    branches: [ "main" ]
+    branches:
+    - main
+    
 
 env:
   PROJECT_ID: web-planetarium # TODO: update Google Cloud project id
