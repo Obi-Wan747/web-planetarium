@@ -3,10 +3,13 @@
 import os
 import sys
 
+print("manage.py activated")
 
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'webplanetarium.settings')
+    
+    print("Setting default port")
     
     # Override default port for `runserver` command
     from django.core.management.commands.runserver import Command as runserver
