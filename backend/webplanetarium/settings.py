@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-i#$@u!%uy88b(guct1q-$l4=e2x_1jtvpu@r4)1ym&!(1$i_k0
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "0.0.0.0"
+    "0.0.0.0",
+    "web-planetarium-gsbxlktcwq-uc.a.run.app"
 ]
 
 
